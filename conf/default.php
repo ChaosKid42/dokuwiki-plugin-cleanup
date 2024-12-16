@@ -14,4 +14,4 @@ $conf['mediaatticage']      = 60*60*24*30*1;
 $conf['mediaatticnoexonly'] = 1;
 $conf['metaage']            = 60*60*24*30*3;
 $conf['mediametaage']       = 60*60*24*30*2;
-$conf['lockage']            = 60*60*30;
+$conf['lockage']            = 60*30;
